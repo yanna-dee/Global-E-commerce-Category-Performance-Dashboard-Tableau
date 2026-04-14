@@ -1,6 +1,8 @@
 # Global E-commerce Category Performance Dashboard (Tableau)
 <img width="1000" height="801" alt="Screen Shot 2026-04-14 at 9 05 03 PM" src="https://github.com/user-attachments/assets/582344e3-4406-4deb-a6ef-6a8b0cfbcd99" />
+
 ### Interact here: https://public.tableau.com/app/profile/yanna.kacey.dee/viz/GlobalE-commerceCategoryPerformanceDashboard/Dashboard
+
 ## Overview
 This project showcases an interactive Tableau dashboard analyzing global e-commerce performance for the year 2025. It highlights key business metrics such as revenue, total orders, and average order value (AOV), along with category-level and geographic insights.
 
