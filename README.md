@@ -25,11 +25,14 @@ The goal is to uncover trends and patterns that can support executive-level deci
 - Country data
 
 ### Size
-- Columns:
-- Rows:
+- Columns: 1195
+- Rows: 7
 
 ## Tools and Methodology
-- Data Preparation: Python (pandas)
+- Data Cleaning: Python (pandas)
 - Data Visualization and Calculations: Tableau Public
 
 ## References
+This project uses the "Global E-Commerce Sales Dataset (2025)" from Kaggle.
+
+Shining little brand. (2026). Global E-Commerce Sales Dataset (2025). Kaggle. Retrieved from https://www.kaggle.com/datasets/kojibrand/global-e-commerce-sales-dataset-2025
