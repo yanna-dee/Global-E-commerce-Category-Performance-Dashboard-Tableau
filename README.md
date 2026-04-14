@@ -36,3 +36,5 @@ The goal is to uncover trends and patterns that can support executive-level deci
 This project uses the "Global E-Commerce Sales Dataset (2025)" from Kaggle.
 
 Shining little brand. (2026). Global E-Commerce Sales Dataset (2025). Kaggle. Retrieved from https://www.kaggle.com/datasets/kojibrand/global-e-commerce-sales-dataset-2025
+
+Design inspo: "Superstore Dashboard - Viz Extensions Edition" by Pradeep Kumar G
